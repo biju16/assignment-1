@@ -50,7 +50,6 @@ body {
 .container {
     width: 1600px;
     height: 1000px;
-    background-color: #fff;
     margin: 0 auto;
     position: relative;
     background-color: #fff;
@@ -234,4 +233,37 @@ button{
     margin-right: 24px;
 }
 
-/*footer*/
+/* newsletter */
+.container1 {
+    margin: 0px 700px;
+    position: relative;
+    font-family: 'Inter', sans-serif;
+    width: 1320px; 
+    height: 616px; 
+    background: rgba(255, 0, 0, 0.05); 
+    border-radius: 16px
+}
+.subscribe{
+    text-align: center; 
+    color: #070211; 
+    font-size: 48px; 
+    font-family: Merriweather; 
+    font-weight: 900; 
+    word-wrap: break-word;
+}
+.letter-content{
+    width: 896px; 
+    text-align: center; 
+    color: rgba(7, 2, 17, 0.60); 
+    font-size: 20px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    line-height: 32px;
+    word-wrap: break-word
+}
+.subscribe-button{
+    width: 648px; 
+    height: 72px; 
+    background: white; 
+    border-radius: 50px
+}
