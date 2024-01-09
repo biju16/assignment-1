@@ -195,7 +195,6 @@ button{
 .main-gift{
     width: 1600px;
     height: 1139px;
-    margin: 0px 700px;
 
 }
 .best{
@@ -235,7 +234,6 @@ button{
 
 /* newsletter */
 .container1 {
-    margin: 0px 700px;
     position: relative;
     font-family: 'Inter', sans-serif;
     width: 1320px; 
